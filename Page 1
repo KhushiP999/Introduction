@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome!</title>
+</head>
+<body bgcolor = "#B7FFFA">
+<center>
+<h1><b>My Portfolio</b></h1>
+    <img src = "https://cdn3.whatculture.com/images/2019/12/20dd43df093c5604-600x338.jpg" alt="My reaction to life">
+    <h3><u>Name</u> : Khushi Parikh</h3>
+    <h3><u>Department</u> : Electrical Engineering</h3>
+    <h3><u>About Me</u> : I am pursuing my B.tech with specialization in 'Electrical Engineering' from IIT-Jodhpur. Love to explore and learn new things!</h3>
+    <h3><u>Learning Now</u> : Python</h3>
+    <h3><u>Hobbies</u> : Art</h3>
+</center>
+</body>
+</html>
